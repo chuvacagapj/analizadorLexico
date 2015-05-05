@@ -22,7 +22,7 @@ lexemas:
 	* Lista
 	* Predicado
 
-En cuanto a "Cualquiera", no se tiene bien definido en el proyecto, se define como cuaquier 
+En cuanto a "Especial", no se tiene bien definido en el proyecto, se define como cuaquier 
 caracter que cumpla con la siguiente expresion regular
 
 "[^ \t\f\r\na-zA-Z0-9\"\',;().]"
